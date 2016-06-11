@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Harriton Track 2015 season
-datePublished: '2016-06-11T20:31:46.443Z'
-dateModified: '2016-06-11T20:31:43.926Z'
+description: Harriton Track 2015 Season
+datePublished: '2016-06-11T21:21:13.763Z'
+dateModified: '2016-06-11T21:21:11.804Z'
 title: ''
 author: []
 authors: []
@@ -17,5 +17,5 @@ url: harriton-track-2015-season/index.html
 _type: Article
 
 ---
-Harriton Track 2015 season
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5609789b-5848-4b01-beeb-0671ecc7fa78.jpg)
+Harriton Track 2015 Season
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2170a869-645c-415e-8cc4-db97ec4070c8.jpg)
