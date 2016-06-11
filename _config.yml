@@ -1,7 +1,7 @@
 name: Pictures By Abbey
 favicon: null
-layout_spectrum: 0.99791
-typography_spectrum: 0.85476
+layout_spectrum: 0.49165
+typography_spectrum: 0.94063
 title: Pictures By Abbey
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#a9a6ad'
     - '#000000'
-    - '#cad0dd'
-    - '#401fe1'
-    - '#9ba1b6'
-    - '#845647'
+    - '#e0e0e2'
+    - '#595764'
+    - '#30c5d3'
   brandStrength: 0.5
   lightness: 0.8125
   saturation: 0.125
